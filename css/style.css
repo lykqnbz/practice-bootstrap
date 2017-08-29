@@ -81,6 +81,7 @@
 }
 .footer a{
     color: #fff;
+    cursor: pointer;
 }
 .footer p{
     margin-bottom: 1.2em;
